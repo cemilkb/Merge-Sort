@@ -1,4 +1,4 @@
 # MERGE SORT 
 
-(Screenshot_2.png)
+![merge_sort](Screenshot_2.png)
 
